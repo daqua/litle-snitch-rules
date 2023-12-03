@@ -1,0 +1,1606 @@
+{
+  "description": "Rules",
+  "name": "stevenblackhosts-0.lsrules",
+  "rules": [
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ck.getcookiestxt.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "eu1.clevertap-prod.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "wizhumpgyros.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "coccyxwickimp.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "webmail-who-int.000webhostapp.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "010sec.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "01mspmd5yalky8.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "0byv9mgbn0.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ns6.0pendns.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dns.0pengl.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "12724.xyz",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "21736.xyz",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.analytics.247sports.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "2no.co",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.2no.co",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "logitechlogitechglobal.112.2o7.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.logitechlogitechglobal.112.2o7.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "2s11.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "30-day-change.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.30-day-change.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mclean.f.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mvconf.f.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "care.help.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "eul.s.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "g.s.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "p.s.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "aicleaner.shouji.360.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ssl.360antivirus.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ad.360in.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mclean.lato.cloud.360safe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mvconf.lato.cloud.360safe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mclean.cloud.360safe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mvconf.cloud.360safe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mclean.uk.cloud.360safe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mvconf.uk.cloud.360safe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "3lift.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "448ff4fcfcd199a.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "44chan.me",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "4ourkidsky.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "5kv261gjmq04c9.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "88chan.pw",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "new.915yzt.cn",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tempinfo.96.lt",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "abdurantom.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "abtasty.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "analytics.modul.ac.at",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "acalvet.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "acbras.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "graph.accountkit.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.graph.accountkit.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "go.ad1data.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "metrics.adage.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adaptivecss.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ads30.adcolony.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "androidads23.adcolony.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "events3.adcolony.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "events3alt.adcolony.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "sdk.adincube.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "app.adjust.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "cdn.admitad-connect.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "macro.adnami.io",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "acdn.adnxs.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "prebid.adnxs.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.prebid.adnxs.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "sstats.adobe.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adorebeauty.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "feedback.adrecover.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adroitpmps.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.ads2live.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adsflame.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "backend-ssp.adstudio.cloud",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adtekmedia.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "400.route.to.adtracker.network",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "track.adtrue.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dw.adyboh.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "wy.adyboh.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adzerk.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.adzerk.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ark.aeriagames.us",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ahf4ycvea439tt9rq.site",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "aiisa.am",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "aircovid19virus.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "akashdayalgroups.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.akashdayalgroups.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "akibaol.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "alidnx.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "alliance4media.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.alliance4media.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "allmygoodlife.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "acrdb.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ads.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "api.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "assets.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "bwlkup.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "clockskew.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "degea.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "demo.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dimaria.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "insights.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "koudas.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "neymar.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "optout.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ppjs.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "prov.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "proxy.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "rtbdev4.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tn.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tr.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tvads.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "villa.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "web2.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.alphonso.tv",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "alpinehandlingsystems.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "creative.alxbgo.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "amarktflow.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.amarktflow.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "device-metrics-us.amazon.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "device-metrics-us-2.amazon.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "windowsphishingalert158.s3.amazonaws.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "amazonco.uk",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.amazonco.uk",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "amorluv.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "analytics-digit-in.cdn.ampproject.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.analytics-digit-in.cdn.ampproject.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "annualconsumersurvey.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.annualconsumersurvey.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "antivirus-covid19.site",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "aoredi.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ap-ms.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "jhqvy.app.link",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "api.stats.appa.pe",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dev.appboy.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "orion.iad.appboy.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.orion.iad.appboy.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adsaccount.appcpi.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "cloud-based-service.us-south.cf.appdomain.cloud",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "app.appleadwords.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.applicationunificationcontroller.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "d.applovin.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "rt.applovin.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "events.appsflyer.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "register.appsflyer.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "t.appsflyer.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "as54rdxfzxs.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "asgh65tfsdxz.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "da032opzasz.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dgyu536ds.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "eqit9pzsxz.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "gdh4szx.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "hg76ytsdas.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "hj67fadszx.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "hk567rsda.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "hksdf924pzxoias.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "iwe8pzosa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "k87yfgsdaa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "kga9szxosa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "kj65rdasz.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "kj6787rsd.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "kr9apzxosa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "nffdg43zx.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "oi8ytfzxa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ruw82qpzxas.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tir94wepsdxox.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tr54sdsazxas.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tru465rsda.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "uy054eprsdoz.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "xasf32easzx.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "xoada0pzosa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ytuy45fxs.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "yu56tdfcxc.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "yuhfdwesaa.appspot.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "ad.apsalar.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "e-ssl.apsalar.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "analytics.archive.org",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "aresboot.xyz",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "arjoflor.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "arjoflos.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "arkonziv.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.arkonziv.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "armantark.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "armconsul.ru",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "artbbs.to",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "artizaa.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "cdn.auditude.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "auth-google.site",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "analytics.ff.avast.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "api.c.avazunativeads.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "aws-update.net",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "adv.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.adv.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "api.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.api.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "bid.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.bid.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "click.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.click.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "cvent.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.cvent.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "pub.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    },
+    {
+      "action": "deny",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "www.pub.axiatraders.com",
+      "creationDate": 1701532800,
+      "modificationDate": 1701532800
+    }
+  ]
+}
